@@ -2,3 +2,4 @@ drf-backend/
 *.pyc
 db-backups/
 products/migrations/
+**/migrations/
